@@ -2,6 +2,8 @@
 
 Hierarchical concept map of Data Science. 
 
+TAKE A LOOK http://htmlpreview.github.io/?https://github.com/SaFialhoD/Data-Science-Mind-Map/blob/master/Index.html
+
 The goal of this map is to create a summary of how a hierarchical relationship of Data Science´s concepts could be, while allowing acces to its content. 
 
 Edges (Relationships):
@@ -35,3 +37,4 @@ In its content:
 
 
 Code based on https://gist.github.com/robschmuecker/7880033 
+
